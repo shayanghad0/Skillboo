@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Flask Login Form – Unified Bug Bounty Master Skill
 
 ## Skill Name
@@ -204,4 +203,3 @@ This master skill assumes the AI can perform all checks without human interactio
 - **Target**: Python Flask login forms
 - **Testing Type**: Automated black‑box (with optional grey‑box via source snippets)
 - **Dependencies**: requests, standard Python libraries, OOB callback server (optional)
-```''
